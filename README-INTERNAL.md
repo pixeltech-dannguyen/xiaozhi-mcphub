@@ -1,0 +1,1 @@
+Bản nội bộ của Pixeltech, tạo để phát triển hệ quản lý thiết bị và chat.
